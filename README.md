@@ -10,9 +10,9 @@ The Relay Module is the component which lives between XDR and the third party so
 
 At the first sight this component can be seen just as a connector that link XDR to 3rd Party Solutions, and which is responsilbe for translation.
 
-But we quickly understand that it is much more than tha. This is a very powerfulcomponent is !   It can be much more than a simple connectors.
+But we quickly understand that it is much more than that. This is a very powerful component ! 
 
-You can add into it demo data, You can add into it a web front end, you can add to it a chat bot, and you can connect it to an Artificial Intelligence. And then create a second Threat Hunting Engine which can be as powerfull as XDR it self and which provides you with the security features you miss.
+You can add into it a database with demo data, You can add into it a web front end, you can add to it a chat bot, and you can connect it to an Artificial Intelligence. And then create a second Threat Hunting Engine which can be as powerfull as XDR it self and which provides you with security features you miss.
 
 The idea of this current project is to share a Relay Module Template which help anyone who want to create a new integration within XDR, to start in 5 minutes. 
 
